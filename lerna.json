@@ -9,6 +9,7 @@
     "publish": {
       "allowBranch": "master",
       "conventionalCommits": true,
+      "message": "chore(release): publish package",
       "ignoreChanges": ["CHANGELOG.md"]
     }
   }
